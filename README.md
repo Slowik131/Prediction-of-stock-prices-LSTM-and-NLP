@@ -1,6 +1,6 @@
 
 # Abstract
-We used neural network and machine learning  to evaluate past data concerning the stock market, as well as news titles of the corresponding time period to make predictions about stock market trends. We built a model that predicts whether the next day the prices of stocks would go up or down. We used a variety of techniques while building the model, such as natural language processing, sentiment analysis or text mining.
+We used neural network and machine learning  to evaluate past data concerning the stock market, as well as news titles of the corresponding time period to make predictions about stock market trends. We built a model that predicts whether the next day prices of stocks would go up or down. We used a variety of techniques while building the model, such as natural language processing, sentiment analysis or text mining.
 
 ## Introduction
 Natural Language Processing is a technique used by a computer to understand and manipulate natural languages. By natural languages, we mean all human derived languages. Natural language processing or NLP for short is used to analyze text and let machines derive meaning from the input. This human-computer interaction allows us to come up with many different applications to bring man and machine as one. In our project,  we use NLP techniques to evaluate stock data from the news titles from in order to make predictions in stock trends.
