@@ -17,7 +17,35 @@ In a file called Sentiment, we worked on sentiment analysis of news titles from 
 We used Jupyter Notebook as well as Google Collab to work together and see what changes have been made.
 
 ## Conclusion
-As we can see from accuracy scores, sentiment definitely has impact on predicting stock prices trends. Depending on the company the score with sentiment gave on average 10% better results
+As we can see from accuracy scores, sentiment definitely has impact on predicting stock prices trends, however not in every case. Depending on the company, the sentiment can be a very good feature for predicting future trends
+
+### Apple
+Without sentiment 
+
+![image](https://user-images.githubusercontent.com/58428501/80367730-e27e9680-888b-11ea-8174-81fcf229511f.png)
+
+With sentiment 
+
+![image](https://user-images.githubusercontent.com/58428501/80367788-f6c29380-888b-11ea-9c2d-d581f2618bf7.png)
+
+### Boeing
+Without sentiment
+
+![image](https://user-images.githubusercontent.com/58428501/80367902-28d3f580-888c-11ea-9482-5ed60e062905.png)
+
+With sentiment
+
+![image](https://user-images.githubusercontent.com/58428501/80367951-3b4e2f00-888c-11ea-9451-da70644492c6.png)
+
+### Microsoft
+Without sentiment
+
+![image](https://user-images.githubusercontent.com/58428501/80368025-5c168480-888c-11ea-9bcc-63f1814e1a39.png)
+
+With sentiment
+
+![image](https://user-images.githubusercontent.com/58428501/80368057-6afd3700-888c-11ea-9e01-ab68cbf64121.png)
+
 
 This project was definitely an eye-opening experience for us. Not only did it educate us in terms of using NLP and creating more complex models, but it also made us research and take interest in the stock market. We put a lot of work to make stock predictions as much accurate as they can be. We also got to know correlations between news titles and stock prices, which were sometimes very intriguing for us.
 
