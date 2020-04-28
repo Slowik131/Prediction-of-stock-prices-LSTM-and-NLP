@@ -17,7 +17,7 @@ In a file called Sentiment, we worked on sentiment analysis of news titles from 
 We used Jupyter Notebook as well as Google Collab to work together and see what changes have been made.
 
 ## Conclusion
-As we can see from accuracy scores, sentiment definitely has impact on predicting stock prices trends, however not in every case. Depending on the company, the sentiment can be a very good feature for predicting future trends
+As we can see below from accuracy scores, sentiment definitely has impact on predicting stock prices trends, however not in every case. Depending on the company, the sentiment can be a very good feature for predicting future trends
 
 ### Apple
 Without sentiment 
