@@ -22,7 +22,7 @@ As we can see below from accuracy scores, sentiment definitely has impact on pre
 ### Apple
 Without sentiment 
 
-![image](https://user-images.githubusercontent.com/58428501/80479648-a14fba80-894f-11ea-8b4b-79b794401bc7.png)
+![image](https://user-images.githubusercontent.com/58428501/80479889-06a3ab80-8950-11ea-9e0c-4c828f94bbda.png)
 
 With sentiment 
 
