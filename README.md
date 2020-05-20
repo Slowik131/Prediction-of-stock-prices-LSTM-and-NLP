@@ -1,5 +1,3 @@
-# Biggest project so far
-
 
 # Abstract
 We used neural network and machine learning  to evaluate past data concerning the stock market, as well as news titles of the corresponding time period to make predictions about stock market trends. We built a model that predicts whether the next day prices of stocks would go up or down. We used a variety of techniques while building the model, such as natural language processing, sentiment analysis or text mining.
